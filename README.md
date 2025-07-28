@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=C732B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+|+Jamile Rockenbach Ferreira." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=C732B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+|+JamileRockenbach." alt="Typing SVG" />
 </p>
 
 ### Sobre mim
@@ -40,6 +40,6 @@
 ### GitHub Stats
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamileRockenbach&layout=compact&title_color=C732B4&text_color=FFFFFF&bg_color=0d1117&border_color=C732B4"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JamileRockenbach&show_icons=true&title_color=FF0000&icon_color=C732B4&text_color=FFFFFF&bg_color=0d1117&border_color=C732B4&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamileRockenbach&layout=compact&title_color=C732B4&text_color=C732B4&bg_color=0d1117&border_color=C732B4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JamileRockenbach&show_icons=true&title_color=C732B4&icon_color=C732B4&text_color=FFFFFF&bg_color=0d1117&border_color=C732B4&count_private=true"/>
 </div>
