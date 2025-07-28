@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=C732B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+|+JamileRockenbach." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=C732B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+|+Jamile+Rockenbach+Ferreira" alt="Typing SVG" />
 </p>
 
-### Sobre mim
+### Sobre mim:
 
 🎓 Estudante de **Ciência da Computação** – 2º semestre  
 💡 Foco em **Desenvolvimento Full Stack**  
@@ -11,7 +11,7 @@
 
 ---
 
-### Tecnologias que estou aprendendo
+### Tecnologias que estou aprendendo:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -21,15 +21,7 @@
 
 ---
 
-### Projetos em destaque
-
-- [**BotyTalk**](https://github.com/JamileRockenbach/BotyTalk) — Chatbot em Python com IA que responde dúvidas em base de **sites**,**vídeos** ou **pdf's**.
-- [**A Jornada de Luz**](https://github.com/JamileRockenbach/Jornada_de_luz) — Jogo 2D com uma experiência de superação feito com Python no Pygame.
-
-
----
-
-### Connect with me
+### Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JamileRockenbach-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamile-rockenbach-ferreira)
 
@@ -37,7 +29,12 @@
 
 ---
 
-### GitHub Stats
+### Projetos em destaque:
+
+- [**BotyTalk**](https://github.com/JamileRockenbach/BotyTalk) — Chatbot em Python com IA que responde dúvidas em base de **sites**,**vídeos** ou **pdf's**.
+- [**A Jornada de Luz**](https://github.com/JamileRockenbach/Jornada_de_luz) — Jogo 2D com uma experiência de superação feito com Python no Pygame.
+
+---
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamileRockenbach&layout=compact&title_color=C732B4&text_color=C732B4&bg_color=0d1117&border_color=C732B4"/>
