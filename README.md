@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=C732B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+|+Jamile+Rockenbach+Ferreira" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=C732B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+|+Jamile+Rockenbach" alt="Typing SVG" />
 </p>
 
 ### Sobre mim:
