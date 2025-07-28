@@ -4,9 +4,9 @@
 
 ### Sobre mim:
 
-🎓 Estudante de **Ciência da Computação**;
-💡 Foco em **Desenvolvimento Full Stack**; 
-📚 Experiência com **Python** e **Análise de Dados**;
+🎓 Estudante de **Ciência da Computação**      
+💡 Foco em **Desenvolvimento Full Stack** com toques de design e criatividade  
+📚 Experiência com **Python** e **Análise de Dados**  
 🚀 Em constante aprendizado e construção de portfólio!
 
 ---
