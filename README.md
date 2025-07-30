@@ -33,6 +33,7 @@
 
 - [**BotyTalk**](https://github.com/JamileRockenbach/BotyTalk) — Chatbot em Python com IA que responde dúvidas em base de **sites**,**vídeos** ou **pdf's**.
 - [**A Jornada de Luz**](https://github.com/JamileRockenbach/Jornada_de_luz) — Jogo 2D com uma experiência de superação feito com Python no Pygame.
+- [**Dashboard de Dados**](https://github.com/JamileRockenbach/dashboard_python) – Mini dashboard de dados em Python para visualizar dados de um CSV com gráficos interativos, estatísticas automáticas e filtro por nome.
 
 ---
 
