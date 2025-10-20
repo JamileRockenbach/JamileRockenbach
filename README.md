@@ -8,11 +8,11 @@
 💡 Foco em *Desenvolvimento de Software, Web e Full Stack*  
 💻 Experiência acadêmica com Java, C#, .NET, Python, React, HTML, CSS, JavaScript, React e Analise de Dados   
 🚀 Em constante aprendizado, buscando aprimorar minhas habilidades técnicas e me desenvolver profissionalmente   
-📌 Aberta a novos desafios como Estágios, Vaga Júnior ou Projetos freelancers como desenvolvedora      
+📌 Aberta a novos desafios como *Estágios, Vaga Júnior ou Projetos freelancers como desenvolvedora*      
 
 ---
 
-### Tecnologias e Ferramentas  
+### Minhas Tecnologias e Ferramentas  
 
 #### *Front-end:*
 
