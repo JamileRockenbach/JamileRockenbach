@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=C732B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+|+Jamile+Rockenbach" alt="Typing SVG" />
 </p>
 
-### Sobre mim
+### Sobre mim:
 
 🎓 Estudante de Ciência da Computação  
 💡 Foco em *Desenvolvimento de Software, Web e Full Stack*  
@@ -39,7 +39,7 @@
 
 ---
 
-### Onde me encontrar
+### Onde me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JamileRockenbach-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamile-rockenbach-ferreira)
 
@@ -49,7 +49,7 @@
 
 ---
 
-### Projetos em destaque
+### Projetos em destaque:
 
 - [**Meu Portifólio**](https://github.com/JamileRockenbach/meu-portifolio) — Meu primeiro site e portifólio feito em HTML, CSS e Javascript.
 - [**A Jornada de Luz**](https://github.com/JamileRockenbach/Jornada_de_luz) — Jogo 2D com uma experiência de superação feito com Python no Pygame.
@@ -59,7 +59,7 @@
 
 ---
 
-### Estatísticas do GitHub  
+### Estatísticas do GitHub:  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamileRockenbach&layout=compact&theme=dracula&title_color=C732B4&hide_border=true" height="160em"/>
